@@ -1,0 +1,8 @@
+C:\Users\Acer\Desktop\ОПП\C#\lr2_opp\bin\Debug\lr2_opp.exe.config
+C:\Users\Acer\Desktop\ОПП\C#\lr2_opp\bin\Debug\lr2_opp.exe
+C:\Users\Acer\Desktop\ОПП\C#\lr2_opp\bin\Debug\lr2_opp.pdb
+C:\Users\Acer\Desktop\ОПП\C#\lr2_opp\obj\Debug\lr2_opp.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ОПП\C#\lr2_opp\obj\Debug\lr2_opp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\ОПП\C#\lr2_opp\obj\Debug\lr2_opp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ОПП\C#\lr2_opp\obj\Debug\lr2_opp.exe
+C:\Users\Acer\Desktop\ОПП\C#\lr2_opp\obj\Debug\lr2_opp.pdb
